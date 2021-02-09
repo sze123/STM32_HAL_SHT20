@@ -118,7 +118,7 @@ int main(void)
 //		printf("Humidity:%0.2f\r\n",SHT20_GetHumidity());
 //		HAL_Delay(800);
 //		BH1750_test();
-		BMP180_test();
+		BMP180_test();	
 		delay_us(500*1000);
 		
   }
